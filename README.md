@@ -53,8 +53,7 @@ fun_fact: Learning Japanese on the side — aiming for JLPT N3
 
 **Data & AI**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Generative_AI-Certified-2575fc?style=for-the-badge&logo=openai&logoColor=white"/>
 
 **Tools**
