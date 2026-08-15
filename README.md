@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There%2C%20I%27m%20Utkarsh%20Zagade&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Data%20%26%20Analytics%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="./assets/header.gif" width="100%" alt="Hi There, I'm Utkarsh Zagade"/>
 
 <!-- Typing animation -->
 <a href="#">
@@ -35,7 +35,7 @@ fun_fact: Learning Japanese on the side — aiming for JLPT N3
 - 👯 I'm looking to collaborate on **data analytics & backend projects**
 - 💬 Ask me about **C, Java, C++, SQL, Python, Gen AI**
 - 📫 How to reach me: **utkarshzagade07@gmail.com**
-- ⚡ Fun fact: **Learning Japanese on the side, targeting JLPT N3**
+
 
 <br/>
 
